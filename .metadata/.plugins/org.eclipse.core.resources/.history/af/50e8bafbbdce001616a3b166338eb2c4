@@ -1,0 +1,8 @@
+package com.library.app.commontests.category;
+
+import org.junit.Ignore;
+
+@Ignore
+public class CategoryForTestsRepository {
+
+}
